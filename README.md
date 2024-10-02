@@ -1,4 +1,4 @@
-# Cryptography-Lab-Programs
+# KTU Cryptography Lab Programs
 
 ## Syllabus
 
